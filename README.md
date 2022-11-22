@@ -1,6 +1,16 @@
 # bbarena_app_com
 
-A new Flutter project.
+The Arena_App is an extensive Social media/Blog app created with flutter. Below are some of it's current features;
+
+1. Add new post with up 5 images or 2 videos.
+2. Nested comment system on all post.
+3. User tagging/Mention in comments or posts.
+4. Edit user profile, change display avatar/username.
+5. Post comments with image or GIF.
+6. Upvote or Downvote comments and posts.
+7. Push notification for post comments and mentions.
+8. Sign up or Sign in with Google account or Apple ID.
+
 
 ## Getting Started
 
