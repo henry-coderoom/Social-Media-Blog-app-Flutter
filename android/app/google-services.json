@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "576227952654",
+    "firebase_url": "https://bbarena-default-rtdb.firebaseio.com",
+    "project_id": "bbarena",
+    "storage_bucket": "bbarena.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576227952654:android:76e8d2c1dbf8bf80f5945f",
+        "android_client_info": {
+          "package_name": "com.example.bbarena_app_com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576227952654-8doc33b58gfjd95j6qg8rechm4lulmsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8KRtRrZrQgOaQjVOIcnm1dzWAY0wE19w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576227952654-8doc33b58gfjd95j6qg8rechm4lulmsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
